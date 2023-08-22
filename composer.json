@@ -16,8 +16,7 @@
         "illuminate/view": "^10.20"
     },
     "require-dev": {
-        "phpunit/phpunit": "^10.3.2",
-        "satooshi/php-coveralls": "^1.0"
+        "pestphp/pest": "^2.0"
     },
     "autoload": {
         "psr-4": {
